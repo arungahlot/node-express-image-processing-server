@@ -66,4 +66,4 @@ package-lock.json
 
 # uploads
 api/uploads
-
+.idea
